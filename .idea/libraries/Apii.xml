@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Apii">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/trading_sdk" />
+      <root url="file://C:/Program Files/Candleworks/ForexConnectAPIx64/bin/java" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/trading_sdk/trading_sdk/fxcm-api/javadoc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/Program Files/Candleworks/ForexConnectAPIx64/bin/java" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/trading_sdk/trading_sdk/fxcm-api/src" />
+      <root url="file://$USER_HOME$/Desktop/trading_sdk/trading_sdk/tradestation/src" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Candleworks/ForexConnectAPIx64/bin/java" recursive="false" />
+  </library>
+</component>
